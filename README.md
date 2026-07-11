@@ -25,13 +25,3 @@ audio or image files required.
 - Audio is synthesized live in-browser: sine waves for chill's pad tones, filtered white noise
   for study's focus hum and rain's texture, and a gain-automated square wave for energetic's pulse
 
-## Run it
-
-Just open `index.html` in any modern browser. No build step, no dependencies.
-
-## Possible extensions
-
-- Save the current mood to localStorage so it persists across sessions
-- Let users tweak particle density or color via a settings panel
-- Add a "custom mood" mode with a color picker and speed slider
-- Export the canvas as an actual animated wallpaper file (GIF/WebM)
